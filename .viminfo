@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1578822595,,"wq!"
+|2,0,1578850176,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,44 @@
 # Registers:
 
 # File marks:
-'0  1  2  ~/index2
-|4,48,1,2,1578822595,"~/index2"
+'0  1  8  ~/index5.html
+|4,48,1,8,1578850176,"~/index5.html"
+'1  1  8  ~/index4.html
+|4,49,1,8,1578850139,"~/index4.html"
+'2  1  2  ~/index2
+|4,50,1,2,1578822595,"~/index2"
 
 # Jumplist (newest first):
+-'  1  8  ~/index5.html
+|4,39,1,8,1578850176,"~/index5.html"
+-'  1  8  ~/index4.html
+|4,39,1,8,1578850139,"~/index4.html"
+-'  1  8  ~/index4.html
+|4,39,1,8,1578850139,"~/index4.html"
+-'  1  2  ~/index2
+|4,39,1,2,1578822595,"~/index2"
+-'  1  2  ~/index2
+|4,39,1,2,1578822595,"~/index2"
+-'  1  2  ~/index2
+|4,39,1,2,1578822595,"~/index2"
 -'  1  2  ~/index2
 |4,39,1,2,1578822595,"~/index2"
 
 # History of marks within files (newest to oldest):
+
+> ~/index5.html
+	*	1578850172	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/index4.html
+	*	1578850134	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/index2
 	*	1578822581	0
